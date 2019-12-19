@@ -10,8 +10,9 @@ const bodyStyle = {
 const layoutStyle = {
     margin: 20,
     padding: 20,
-    border: '1px solid #DDD',
-    background: "#98ccd3",
+    border: "10px solid white",
+    background:"#ADD8E6"
+   
 
 
 

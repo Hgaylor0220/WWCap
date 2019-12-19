@@ -4,7 +4,31 @@
     "static/development/dll/dll_d6a88dbe3071bd165157.js.map"
   ],
   "pages": {
-    "/Molalla": [
+    "/": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/ClackamasUpper": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/DisplayRiver": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/MessageBoard": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/RougeRiver": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/Washougal": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/Wind": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
@@ -19,6 +43,18 @@
     "/_polyfills": [
       "static/runtime/polyfills.js",
       "static/runtime/polyfills.js.map"
+    ],
+    "/addriver": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/index": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/journal": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/rivers": [
       "static/runtime/webpack.js",

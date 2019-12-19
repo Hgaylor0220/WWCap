@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 10);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -104,7 +104,7 @@ module.exports =
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _nav__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./nav */ "./components/nav.js");
+/* harmony import */ var _nav__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./nav */ "./components/nav.js");
 var _jsxFileName = "/Users/haileygaylor/Epicodus-Projects/WWCap/components/Layout.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -117,28 +117,28 @@ const bodyStyle = {
 const layoutStyle = {
   margin: 20,
   padding: 20,
-  border: '1px solid #DDD',
-  background: "#98ccd3"
+  border: "10px solid white",
+  background: "#ADD8E6"
 };
 
 const Layout = props => __jsx("body", {
   style: bodyStyle,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 21
+    lineNumber: 22
   },
   __self: undefined
 }, __jsx("div", {
   style: layoutStyle,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 22
+    lineNumber: 23
   },
   __self: undefined
-}, __jsx(_nav__WEBPACK_IMPORTED_MODULE_2__["default"], {
+}, __jsx(_nav__WEBPACK_IMPORTED_MODULE_1__["default"], {
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 23
+    lineNumber: 24
   },
   __self: undefined
 }), props.content));
@@ -175,21 +175,21 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 // })
 
 const Nav = () => __jsx("nav", {
-  className: "jsx-2055897931",
+  className: "jsx-1017334846",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 14
   },
   __self: undefined
 }, __jsx("ul", {
-  className: "jsx-2055897931",
+  className: "jsx-1017334846",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 15
   },
   __self: undefined
 }, __jsx("li", {
-  className: "jsx-2055897931",
+  className: "jsx-1017334846",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 16
@@ -203,14 +203,14 @@ const Nav = () => __jsx("nav", {
   },
   __self: undefined
 }, __jsx("a", {
-  className: "jsx-2055897931",
+  className: "jsx-1017334846",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 18
   },
   __self: undefined
 }, "Home"))), __jsx("li", {
-  className: "jsx-2055897931",
+  className: "jsx-1017334846",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 20
@@ -224,14 +224,14 @@ const Nav = () => __jsx("nav", {
   },
   __self: undefined
 }, __jsx("a", {
-  className: "jsx-2055897931",
+  className: "jsx-1017334846",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 22
   },
   __self: undefined
 }, "Search a River"))), __jsx("li", {
-  className: "jsx-2055897931",
+  className: "jsx-1017334846",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 24
@@ -245,16 +245,16 @@ const Nav = () => __jsx("nav", {
   },
   __self: undefined
 }, __jsx("a", {
-  className: "jsx-2055897931",
+  className: "jsx-1017334846",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 28
   },
   __self: undefined
 }, "Login")))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-  id: "2055897931",
+  id: "1017334846",
   __self: undefined
-}, "body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Avenir Next,Avenir, Helvetica,sans-serif;}nav.jsx-2055897931{text-align:center;}ul.jsx-2055897931{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}nav.jsx-2055897931>ul.jsx-2055897931{padding:4px 16px;}li.jsx-2055897931{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:6px 8px;}a.jsx-2055897931{color:#067df7;-webkit-text-decoration:none;text-decoration:none;font-size:13px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9oYWlsZXlnYXlsb3IvRXBpY29kdXMtUHJvamVjdHMvV1dDYXAvY29tcG9uZW50cy9uYXYuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBcUNvQixBQUdrQixBQUtTLEFBR0wsQUFJSSxBQUdKLEFBSUMsU0FqQlMsS0FrQkYsR0FQdkIsQ0FQQSw4Q0FlaUIsVUFaZSxBQU9kLEtBTWxCLFdBTEEsS0FkQSw4RkFPQSIsImZpbGUiOiIvVXNlcnMvaGFpbGV5Z2F5bG9yL0VwaWNvZHVzLVByb2plY3RzL1dXQ2FwL2NvbXBvbmVudHMvbmF2LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0J1xuaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJztcblxuLy8gY29uc3QgbGlua3MgPSBbXG4vLyAvLyAgIHsgaHJlZjogJ2h0dHBzOi8vemVpdC5jby9ub3cnLCBsYWJlbDogJ0lzIEl0IEluPycgfSxcbi8vIC8vICAgeyBocmVmOiAnaHR0cHM6Ly9naXRodWIuY29tL3plaXQvbmV4dC5qcycsIGxhYmVsOiAnU2VhcmNoIGEgUml2ZXInIH0sXG4vLyBdLm1hcChsaW5rID0+IHtcbi8vICAgbGluay5rZXkgPSBgbmF2LWxpbmstJHtsaW5rLmhyZWZ9LSR7bGluay5sYWJlbH1gXG4vLyAgIHJldHVybiBsaW5rXG4vLyB9KVxuXG5jb25zdCBOYXYgPSAoKSA9PiAoXG5cbiAgICA8bmF2PlxuICAgICAgICA8dWw+XG4gICAgICAgICAgICA8bGk+XG4gICAgICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9cIj5cbiAgICAgICAgICAgICAgICAgICAgPGE+SG9tZTwvYT5cbiAgICAgICAgICAgICAgICA8L0xpbms+PC9saT5cbiAgICAgICAgICAgIDxsaT5cbiAgICAgICAgICAgICAgICA8TGluayBocmVmPVwiL21hcFwiPlxuICAgICAgICAgICAgICAgICAgICA8YT5TZWFyY2ggYSBSaXZlcjwvYT5cbiAgICAgICAgICAgICAgICA8L0xpbms+PC9saT5cbiAgICAgICAgICAgIDxsaT5cblxuXG4gICAgICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9sb2dpblwiPlxuICAgICAgICAgICAgICAgICAgICA8YT5Mb2dpbjwvYT5cbiAgICAgICAgICAgICAgICA8L0xpbms+XG4gICAgICAgICAgICA8L2xpPlxuICAgICAgICAgICAgey8qIHtsaW5rcy5tYXAoKHsga2V5LCBocmVmLCBsYWJlbCB9KSA9PiAoXG4gICAgICAgIDxsaSBrZXk9e2tleX0+XG4gICAgICAgICAgPGEgaHJlZj17aHJlZn0+e2xhYmVsfTwvYT5cbiAgICAgICAgPC9saT5cbiAgICAgICkpfSAqL31cbiAgICAgICAgPC91bD5cblxuICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICA6Z2xvYmFsKGJvZHkpIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICBmb250LWZhbWlseTogLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LCBBdmVuaXIgTmV4dCwgQXZlbmlyLFxuICAgICAgICAgIEhlbHZldGljYSwgc2Fucy1zZXJpZjtcbiAgICAgIH1cbiAgICAgIG5hdiB7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgIH1cbiAgICAgIHVsIHtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuO1xuICAgICAgfVxuICAgICAgbmF2ID4gdWwge1xuICAgICAgICBwYWRkaW5nOiA0cHggMTZweDtcbiAgICAgIH1cbiAgICAgIGxpIHtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgcGFkZGluZzogNnB4IDhweDtcbiAgICAgIH1cbiAgICAgIGEge1xuICAgICAgICBjb2xvcjogIzA2N2RmNztcbiAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICAgICAgICBmb250LXNpemU6IDEzcHg7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICAgIDwvbmF2PlxuKVxuXG5leHBvcnQgZGVmYXVsdCBOYXY7XG4iXX0= */\n/*@ sourceURL=/Users/haileygaylor/Epicodus-Projects/WWCap/components/nav.js */"));
+}, "body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Avenir Next,Avenir, Helvetica,sans-serif;}nav.jsx-1017334846{text-align:center;}ul.jsx-1017334846{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}nav.jsx-1017334846>ul.jsx-1017334846{padding:4px 16px;}li.jsx-1017334846{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:6px 8px;}a.jsx-1017334846{color:#067df7;-webkit-text-decoration:none;text-decoration:none;font-size:20px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9oYWlsZXlnYXlsb3IvRXBpY29kdXMtUHJvamVjdHMvV1dDYXAvY29tcG9uZW50cy9uYXYuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBcUNvQixBQUdrQixBQUtTLEFBR0wsQUFJSSxBQUdKLEFBSUMsU0FqQlMsS0FrQkYsR0FQdkIsQ0FQQSw4Q0FlaUIsVUFaZSxBQU9kLEtBTWxCLFdBTEEsS0FkQSw4RkFPQSIsImZpbGUiOiIvVXNlcnMvaGFpbGV5Z2F5bG9yL0VwaWNvZHVzLVByb2plY3RzL1dXQ2FwL2NvbXBvbmVudHMvbmF2LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0J1xuaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJztcblxuLy8gY29uc3QgbGlua3MgPSBbXG4vLyAvLyAgIHsgaHJlZjogJ2h0dHBzOi8vemVpdC5jby9ub3cnLCBsYWJlbDogJ0lzIEl0IEluPycgfSxcbi8vIC8vICAgeyBocmVmOiAnaHR0cHM6Ly9naXRodWIuY29tL3plaXQvbmV4dC5qcycsIGxhYmVsOiAnU2VhcmNoIGEgUml2ZXInIH0sXG4vLyBdLm1hcChsaW5rID0+IHtcbi8vICAgbGluay5rZXkgPSBgbmF2LWxpbmstJHtsaW5rLmhyZWZ9LSR7bGluay5sYWJlbH1gXG4vLyAgIHJldHVybiBsaW5rXG4vLyB9KVxuXG5jb25zdCBOYXYgPSAoKSA9PiAoXG5cbiAgICA8bmF2PlxuICAgICAgICA8dWw+XG4gICAgICAgICAgICA8bGk+XG4gICAgICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9cIj5cbiAgICAgICAgICAgICAgICAgICAgPGE+SG9tZTwvYT5cbiAgICAgICAgICAgICAgICA8L0xpbms+PC9saT5cbiAgICAgICAgICAgIDxsaT5cbiAgICAgICAgICAgICAgICA8TGluayBocmVmPVwiL21hcFwiPlxuICAgICAgICAgICAgICAgICAgICA8YT5TZWFyY2ggYSBSaXZlcjwvYT5cbiAgICAgICAgICAgICAgICA8L0xpbms+PC9saT5cbiAgICAgICAgICAgIDxsaT5cblxuXG4gICAgICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9sb2dpblwiPlxuICAgICAgICAgICAgICAgICAgICA8YT5Mb2dpbjwvYT5cbiAgICAgICAgICAgICAgICA8L0xpbms+XG4gICAgICAgICAgICA8L2xpPlxuICAgICAgICAgICAgey8qIHtsaW5rcy5tYXAoKHsga2V5LCBocmVmLCBsYWJlbCB9KSA9PiAoXG4gICAgICAgIDxsaSBrZXk9e2tleX0+XG4gICAgICAgICAgPGEgaHJlZj17aHJlZn0+e2xhYmVsfTwvYT5cbiAgICAgICAgPC9saT5cbiAgICAgICkpfSAqL31cbiAgICAgICAgPC91bD5cblxuICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICA6Z2xvYmFsKGJvZHkpIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICBmb250LWZhbWlseTogLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LCBBdmVuaXIgTmV4dCwgQXZlbmlyLFxuICAgICAgICAgIEhlbHZldGljYSwgc2Fucy1zZXJpZjtcbiAgICAgIH1cbiAgICAgIG5hdiB7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgIH1cbiAgICAgIHVsIHtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuO1xuICAgICAgfVxuICAgICAgbmF2ID4gdWwge1xuICAgICAgICBwYWRkaW5nOiA0cHggMTZweDtcbiAgICAgIH1cbiAgICAgIGxpIHtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgcGFkZGluZzogNnB4IDhweDtcbiAgICAgIH1cbiAgICAgIGEge1xuICAgICAgICBjb2xvcjogIzA2N2RmNztcbiAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICAgICAgICBmb250LXNpemU6IDIwcHg7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICAgIDwvbmF2PlxuKVxuXG5leHBvcnQgZGVmYXVsdCBOYXY7XG4iXX0= */\n/*@ sourceURL=/Users/haileygaylor/Epicodus-Projects/WWCap/components/nav.js */"));
 
 /* harmony default export */ __webpack_exports__["default"] = (Nav);
 
@@ -2364,7 +2364,7 @@ function rivers() {
 
 /***/ }),
 
-/***/ 4:
+/***/ 10:
 /*!*******************************!*\
   !*** multi ./pages/rivers.js ***!
   \*******************************/
