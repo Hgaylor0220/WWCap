@@ -2,20 +2,20 @@ import Layout from '../components/Layout';
 import Link from 'next/link';
 
 const journalEntry = <div>
-    <div className="header"><h1>Upper Clackaamas</h1></div>
+    <div className="header"><h1>Lewis River</h1></div>
     <div >
         <img className="Ethan" src="/Ethan.jpg" alt="my image" width="1500" height="300" />
     </div>
     <br />
     <div className="card">
     <ul>
-        <h3>Lewis River</h3>
-        <h3>Description: Class IV+ rapids with high waterfall drops. This is a river to cross off the list for advanced boaters</h3> 
-        <h3> Class: IV-V+ </h3>
-        <h3>RunLength: Falls </h3>
-        <h3>PutIn: Above the Falls</h3>
-        <h3>TakeOut: Below the falls </h3> 
-        <h3>Location: Ariel, Washingington</h3>
+        
+        <h2>Description: Class IV+ rapids with high waterfall drops. This is a river to cross off the list for advanced boaters</h2> 
+        <h2> Class: IV-V+ </h2>
+        <h2>RunLength: Falls </h2>
+        <h2>PutIn: Above the Falls</h2>
+        <h2>TakeOut: Below the falls </h2> 
+        <h2>Location: Ariel, Washingington</h2>
 
     </ul>
     </div>

@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 
 const journalEntry = <div>
-    <div className="header"><h1>Upper Clackaamas</h1></div>
+    <div className="header"><h1>Rogue River</h1></div>
     <div >
         <img className="Ethan" src="/Ethan.jpg" alt="my image" width ="1500" height="300" />
     </div>
@@ -11,12 +11,12 @@ const journalEntry = <div>
     <div className="card">
     <ul>
     <div className= "description">
-        <h2> Description :Great class three plus rapids with pool drops that are spread out through the run making it possible  to put in and take out when ever. This run is great for kayakers, IK, rafting and paddle boards</h2>
-        <h2> Class : III-IV, </h2>
-        <h2>Run Length : miles, </h2>
-        <h2>Put In : Powerhouse, Hole in the wall, Fish Creek, Toilet bowl, </h2>
-        <h2>Take Out : Toilet Bowl, Moore Creek, Memoloose", </h2>
-        <h2>Location : Estacada, Oredgon</h2>
+                <h2> Description:This is a great run for skilled coateers with a lot of play boating features. Some of the rapids can be very technical, advisory scouting prior to running rapids if you have not done it before. Nugget Falls and Ti'lomikh falls can present some difficulties. Ti'lomikh must be scouted from the road prior to put in. </h2>
+                <h2>Class:IV</h2>
+                <h2> RunLength:4.6 miles</h2>
+                <h2>PutIn:Follow Oregon 234 for a couple miles to a old gravel road, put in is below Lymans</h2>  
+                <h2>TakeOut:Gold Hill Sports park boat ramp </h2>
+                <h2>Location:Central Point, Oregon</h2>
 </div>
     </ul>
     </div>
