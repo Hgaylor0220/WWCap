@@ -9541,7 +9541,7 @@ var riverSearch = __jsx("div", {
     lineNumber: 27
   },
   __self: undefined
-}, "WhiteSalmonr ")), __jsx("a", {
+}, "White Salmon ")), __jsx("a", {
   href: "/CanyonCreek",
   __source: {
     fileName: _jsxFileName,
@@ -9554,7 +9554,7 @@ var riverSearch = __jsx("div", {
     lineNumber: 29
   },
   __self: undefined
-}, "CanyonCreek ")), __jsx("a", {
+}, "Canyon Creek ")), __jsx("a", {
   href: "/Washougal",
   __source: {
     fileName: _jsxFileName,
@@ -9568,7 +9568,7 @@ var riverSearch = __jsx("div", {
   },
   __self: undefined
 }, "Washougal")), __jsx("a", {
-  href: "/Klikitat",
+  href: "/Klickitat",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 32
@@ -9606,7 +9606,7 @@ var riverSearch = __jsx("div", {
     lineNumber: 37
   },
   __self: undefined
-}, "Ohanapecosh ")), __jsx("a", {
+}, "Ohanapecosh")), __jsx("a", {
   href: "/UpperLewis",
   __source: {
     fileName: _jsxFileName,
@@ -9658,7 +9658,7 @@ var riverSearch = __jsx("div", {
     lineNumber: 45
   },
   __self: undefined
-}, "JordanCreek")), __jsx("a", {
+}, "Jordan Creek")), __jsx("a", {
   href: "/Wind",
   __source: {
     fileName: _jsxFileName,
@@ -9700,7 +9700,7 @@ function rivers() {
 
 /***/ }),
 
-/***/ 7:
+/***/ 2:
 /*!**********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Frivers&absolutePagePath=%2FUsers%2Fhaileygaylor%2FEpicodus-Projects%2FWWCap%2Fpages%2Frivers.js ***!
   \**********************************************************************************************************************************************/
@@ -9723,5 +9723,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[7,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=rivers.js.map

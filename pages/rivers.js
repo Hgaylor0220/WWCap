@@ -24,17 +24,17 @@ const riverSearch = <div>
     <a href="/Sandy">
         <p>Sandy </p></a>
     <a href="/WhiteSalmon">
-        <p>WhiteSalmonr </p></a>
+        <p>White Salmon </p></a>
     <a href="/CanyonCreek">
-        <p>CanyonCreek </p></a>
+        <p>Canyon Creek </p></a>
     <a href="/Washougal">
         <p>Washougal</p></a>
-    <a href="/Klikitat">
+    <a href="/Klickitat">
         <p>Klikitat </p></a>
     <a href="/Elf">
         <p>ELF</p></a>
     <a href="/Ohanapecosh">
-        <p>Ohanapecosh </p></a>
+        <p>Ohanapecosh</p></a>
     <a href="/UpperLewis">
         <p>Upper Lewis Falls </p></a>
     <a href="/Molalla">
@@ -42,7 +42,7 @@ const riverSearch = <div>
     <a href="/Wilson">
         <p>Wilson</p></a>
     <a href="/JordanCreek">
-        <p>JordanCreek</p></a>
+        <p>Jordan Creek</p></a>
     <a href="/Wind">
         <p>Wind </p></a>
     <a href="/Wynoochee">

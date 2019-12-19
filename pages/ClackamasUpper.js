@@ -5,7 +5,7 @@ const journalEntry = <div>
     <div className="header"><h1>Clackamas, upper </h1></div>
 
     <div >
-        <img className="Ethan" src="/Ethan.jpg" alt="my image" width="1500" height="300" />
+        <img className="Ethan" src="/Uclack.jpg" alt="my image" width="1500" height="300" />
     </div>
     <br />
     <div className="card">

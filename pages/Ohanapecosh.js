@@ -2,20 +2,21 @@ import Layout from '../components/Layout';
 import Link from 'next/link';
 
 const journalEntry = <div>
-    <div className="header"><h1>Wilson </h1></div>
+    <div className="header"><h1>Ohanapecosh (ohani)</h1></div>
 
     <div >
-        <img className="Ethan" src="/Wilson.jpg" alt="my image" width="1500" height="300" />
+        <img className="Ethan" src="/Ohanapecosh.jpg" alt="my image" width="1500" height="300" />
     </div>
     <br />
     <div className="card">
         <ul>
-        <h2>Description : This river is surrounded by forest, the rapids are described as pool drops with lots of river curves.</h2>  
-        <h2>Class : II- IV</h2> 
-        <h2>Run Length : 8 miles</h2>
-        <h2>Put In : Jones Creek Campground mile post 23</h2> 
-        <h2>Take Out : Mile post 15, Mile post 18</h2> 
-        <h2>Location : Tillamook, Oregon,</h2>
+        
+            <h2>Description: Beautiful forresty run originating in the lush growth of Mt. Rainier National Park. If you arent taken away by the beautiful landscape the crystal blue water will take your breath away. This Run is best between 700-3000CFS</h2>  
+            <h2>Class: V </h2>
+            <h2>RunLength: 8 miles </h2>
+            <h2>PutIn: Ohanapecosh Campground</h2> 
+            <h2>TakeOut: La Wis Wis Campground</h2> 
+            <h2>Location: PackWood, Washington</h2>
 
     </ul>
 </div>
@@ -59,7 +60,7 @@ const journalEntry = <div>
       `}</style>
 </div>;
 
-export default function Wilson() {
+export default function Ohanapecosh() {
     return (
         <Layout content={journalEntry} />
 

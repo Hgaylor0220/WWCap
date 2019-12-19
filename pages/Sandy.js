@@ -2,24 +2,24 @@ import Layout from '../components/Layout';
 import Link from 'next/link';
 
 const journalEntry = <div>
-    <div className="header"><h1>Ohanapecosh (ohani)</h1></div>
-
+    <div className="header"><h1>Sandy</h1></div>
     <div >
-        <img className="Ethan" src="/Ethan.jpg" alt="my image" width="1500" height="300" />
+        <img className="Ethan" src="/SandyR.jpg" alt="my image" width="1500" height="300" />
     </div>
     <br />
     <div className="card">
         <ul>
-        
-            <h2>Description: Beautiful forresty run originating in the lush growth of Mt. Rainier National Park. If you arent taken away by the beautiful landscape the crystal blue water will take your breath away. This Run is best between 700-3000CFS</h2>  
-            <h2>Class: V </h2>
-            <h2>RunLength: 8 miles </h2>
-            <h2>PutIn: Ohanapecosh Campground</h2> 
-            <h2>TakeOut: La Wis Wis Campground</h2> 
-            <h2>Location: PackWood, Washington</h2>
 
-    </ul>
-</div>
+            
+                <h2>Description: Beautiful foresty run, with no raods on the side, so if you are in need of walking out it could be an adventure! The rapids are followed by a nice pool drop at the end making this a great run to have some fun,</h2>
+                <h2>Class: II -III,</h2>  
+                <h2>RunLength: 6.8 miles,</h2> 
+                <h2>PutIn: Dodge Park, </h2>
+                <h2>TakeOut: Oxbow Park,</h2>
+                <h2>Location: Sandy, Oregon</h2> 
+
+        </ul>
+    </div>
     <style jsx>{`
         
         .header {
@@ -58,9 +58,10 @@ const journalEntry = <div>
         
         
       `}</style>
+
 </div>;
 
-export default function clackamasUpper() {
+export default function UpperLewis() {
     return (
         <Layout content={journalEntry} />
 

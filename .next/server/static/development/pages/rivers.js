@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 10);
+/******/ 	return __webpack_require__(__webpack_require__.s = 5);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -2205,7 +2205,7 @@ const riverSearch = __jsx("div", {
     lineNumber: 27
   },
   __self: undefined
-}, "WhiteSalmonr ")), __jsx("a", {
+}, "White Salmon ")), __jsx("a", {
   href: "/CanyonCreek",
   __source: {
     fileName: _jsxFileName,
@@ -2218,7 +2218,7 @@ const riverSearch = __jsx("div", {
     lineNumber: 29
   },
   __self: undefined
-}, "CanyonCreek ")), __jsx("a", {
+}, "Canyon Creek ")), __jsx("a", {
   href: "/Washougal",
   __source: {
     fileName: _jsxFileName,
@@ -2232,7 +2232,7 @@ const riverSearch = __jsx("div", {
   },
   __self: undefined
 }, "Washougal")), __jsx("a", {
-  href: "/Klikitat",
+  href: "/Klickitat",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 32
@@ -2270,7 +2270,7 @@ const riverSearch = __jsx("div", {
     lineNumber: 37
   },
   __self: undefined
-}, "Ohanapecosh ")), __jsx("a", {
+}, "Ohanapecosh")), __jsx("a", {
   href: "/UpperLewis",
   __source: {
     fileName: _jsxFileName,
@@ -2322,7 +2322,7 @@ const riverSearch = __jsx("div", {
     lineNumber: 45
   },
   __self: undefined
-}, "JordanCreek")), __jsx("a", {
+}, "Jordan Creek")), __jsx("a", {
   href: "/Wind",
   __source: {
     fileName: _jsxFileName,
@@ -2364,7 +2364,7 @@ function rivers() {
 
 /***/ }),
 
-/***/ 10:
+/***/ 5:
 /*!*******************************!*\
   !*** multi ./pages/rivers.js ***!
   \*******************************/

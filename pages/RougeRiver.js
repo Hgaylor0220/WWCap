@@ -5,7 +5,7 @@ import Link from 'next/link';
 const journalEntry = <div>
     <div className="header"><h1>Rogue River</h1></div>
     <div >
-        <img className="Ethan" src="/Ethan.jpg" alt="my image" width ="1500" height="300" />
+        <img className="Ethan" src="/Rogue.jpg" alt="my image" width ="1500" height="300" />
     </div>
     <br/>
     <div className="card">

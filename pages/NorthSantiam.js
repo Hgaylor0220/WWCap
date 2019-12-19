@@ -2,8 +2,14 @@ import Layout from '../components/Layout';
 import Link from 'next/link';
 
 const journalEntry = <div>
-    <ul>
-        <h2>North Santiam</h2>
+    <div className="header"><h1>North Santiam</h1></div>
+
+    <div >
+        <img className="Ethan" src="/NorthSantiam.jpg" alt="my image" width="1500" height="300" />
+    </div>
+    <br />
+    <div className="card">
+        <ul>
             <h2>Description: This run can be split up into three runs. The rapids range from class II-V. The upper section, big cliff dam to packsaddle are considered class III-V, packsaddle down to Mill City falls(very small waterfall) for class II-III and Mill City to Mehama for class II on.</h2>  
             <h2>Class: II-V</h2> 
             <h2>RunLength: 21.2 miles </h2>
