@@ -8,58 +8,6 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/CanyonCreek": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/Elf": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/JordanCreek": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/Klickitat": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/Molalla": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/Ohanapecosh": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/Sandy": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/UpperLewis": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/Washougal": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/WhiteSalmon": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/Wilson": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/Wind": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/Wynoochee": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
     "/_app": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
@@ -73,14 +21,6 @@
       "static/runtime/polyfills.js.map"
     ],
     "/index": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/next/dist/pages/_error": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/rivers": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]
